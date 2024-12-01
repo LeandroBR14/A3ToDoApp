@@ -1,4 +1,5 @@
-#### av3-DS
+### Trabalho apresentado à disciplina de Usabilidade, desenvolvimento web, mobile e jogos como parte da avaliação A3
+### Leandro Scalabrini de Souza Dias | 32318945
 ---
 # Como Executar o Aplicativo
 
